@@ -1,8 +1,14 @@
 # 📱 Portfolio App — React Native
 
-Um portfólio mobile moderno feito com React Native + Expo.
+Um portfólio mobile  feito com React Native + Expo.
 
 ---
+
+## 📲 Visualizar o app
+
+Abra o app **Expo Go** e escaneie o QR code ou acesse o link abaixo:
+
+🔗 [Abrir no Expo Go](https://expo.dev/preview/update?message=Primeiro+deploy&updateRuntimeVersion=1.0.0&createdAt=2026-02-23T00%3A59%3A00.194Z&slug=exp&projectId=8a0845ac-9a85-4fd3-83d9-cab02b3559ea&group=56f21234-be41-4f56-ab9a-93c1948e6deb)
 
 ## 🚀 Como rodar localmente
 
