@@ -19,7 +19,7 @@ export default function ProjectsScreen() {
         {/* Header */}
         <LinearGradient colors={['#1C1C27', theme.colors.background]} style={styles.header}>
           <Text style={styles.headerTitle}>Projetos</Text>
-          <Text style={styles.headerSub}>{userData.projects.length} projetos desenvolvidos</Text>
+          <Text style={styles.headerSub}>{userData.projects.length} Projetos desenvolvidos durante minha trajetória acadêmica e profissional</Text>
         </LinearGradient>
 
         {/* Projects List */}

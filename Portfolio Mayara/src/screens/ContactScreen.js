@@ -100,7 +100,7 @@ export default function ContactScreen() {
         {/* Header */}
         <LinearGradient colors={['#1C1C27', theme.colors.background]} style={styles.header}>
           <Text style={styles.headerTitle}>Contato</Text>
-          <Text style={styles.headerSub}>Vamos construir algo incrível juntos?</Text>
+          <Text style={styles.headerSub}>Aberta para novas oportunidades e projetos.?</Text>
         </LinearGradient>
 
         {/* Availability Card */}

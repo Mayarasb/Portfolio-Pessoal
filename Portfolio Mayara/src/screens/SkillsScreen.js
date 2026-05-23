@@ -71,7 +71,7 @@ export default function SkillsScreen() {
         {/* Header */}
         <LinearGradient colors={['#1C1C27', theme.colors.background]} style={styles.header}>
           <Text style={styles.headerTitle}>Habilidades</Text>
-          <Text style={styles.headerSub}>Tecnologias que domino e utilizo no dia a dia</Text>
+          <Text style={styles.headerSub}>Possuo conhecimento e experiência com tecnologias utilizadas no desenvolvimento de software e na gestão de projetos, incluindo Angular, TypeScript, JavaScript, Node.js, Express, HTML, CSS, bancos de dados MySQL e MongoDB. Também utilizo ferramentas e metodologias ágeis como Scrum e Kanban no dia a dia, além de práticas voltadas ao desenvolvimento web, versionamento com Git e criação de interfaces responsivas e acessíveis.</Text>
         </LinearGradient>
 
         {/* Summary Cards */}
